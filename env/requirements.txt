@@ -11,4 +11,4 @@ rosetta
 rich
 natsort
 ipywidgets
-myst_nb
+myst-parser
