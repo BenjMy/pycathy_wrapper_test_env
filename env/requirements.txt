@@ -11,3 +11,4 @@ rosetta
 rich
 natsort
 ipywidgets
+myst_nb
